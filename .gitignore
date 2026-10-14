@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+coverage/
+.env*
+!.env.example
+
+Pocketbase/pb_data/
+Pocketbase/pb_data_backup_*/
+Pocketbase/pb_public/
+Pocketbase/pocketbase.exe
+Pocketbase/pocketbase_*.zip
+
+*.db
+*.db-shm
+*.db-wal
+*.tsbuildinfo
